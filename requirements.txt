@@ -1,0 +1,8 @@
+scikit-learn
+nltk
+SpeechRecognition
+pyttsx3
+customtkinter
+requests
+pyaudio
+numpy
