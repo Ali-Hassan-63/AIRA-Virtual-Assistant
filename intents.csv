@@ -1,0 +1,159 @@
+text,intent
+hello,greeting
+hi there,greeting
+hey,greeting
+my boss,boss
+who is your boss,boss
+who made you,boss
+who created you,boss
+who built you,boss
+tell me about your boss,boss
+your creator,boss
+your maker,boss
+good morning,greeting
+good evening,greeting
+good afternoon,greeting
+how are you,greeting
+what's up,greeting
+howdy,greeting
+greetings,greeting
+hi,greeting
+hello there,greeting
+hey there,greeting
+what time is it,time
+tell me the time,time
+current time,time
+what's the time,time
+time please,time
+what is the time right now,time
+give me the time,time
+what's today's date,date
+what is the date today,date
+today's date,date
+current date,date
+what day is it,date
+tell me the date,date
+what month is it,date
+open youtube,open_youtube
+go to youtube,open_youtube
+launch youtube,open_youtube
+youtube please,open_youtube
+start youtube,open_youtube
+take me to youtube,open_youtube
+play youtube,open_youtube
+open google,open_google
+go to google,open_google
+launch google,open_google
+google please,open_google
+take me to google,open_google
+start google,open_google
+search on google,open_google
+search for cats,web_search
+search the web for dogs,web_search
+look up python programming,web_search
+find information about AI,web_search
+google search machine learning,web_search
+search weather in London,web_search
+look up latest news,web_search
+search for recipes,web_search
+find me a tutorial,web_search
+look up how to cook pasta,web_search
+play music,play_music
+play a song,play_music
+play some music,play_music
+start music,play_music
+I want to listen to music,play_music
+put on some music,play_music
+play my playlist,play_music
+music please,play_music
+what's the weather,weather
+weather today,weather
+tell me the weather,weather
+what is the weather like,weather
+weather forecast,weather
+is it going to rain,weather
+weather outside,weather
+temperature today,weather
+what's the temperature,weather
+calculate 5 plus 3,calculator
+what is 10 times 4,calculator
+compute 100 divided by 5,calculator
+math calculation,calculator
+solve 25 minus 7,calculator
+add 12 and 8,calculator
+multiply 6 by 7,calculator
+calculate 2 to the power of 8,calculator
+what is 15 percent of 200,calculator
+do the math 9 plus 6,calculator
+who are you,about
+what are you,about
+tell me about yourself,about
+what is your name,about
+who made you,about
+are you a robot,about
+are you human,about
+tell me what you are,about
+introduce yourself,about
+describe yourself,about
+what are your capabilities,about
+goodbye,exit
+bye,exit
+exit,exit
+quit,exit
+stop,exit
+farewell,exit
+see you later,exit
+take care,exit
+close the assistant,exit
+shut down,exit
+I'm done,exit
+thank you goodbye,exit
+tell me a joke,joke
+say something funny,joke
+make me laugh,joke
+do you know any jokes,joke
+tell a joke,joke
+funny joke please,joke
+what's your favorite joke,joke
+how is the weather in New York,weather
+weather in Paris,weather
+forecast for tomorrow,weather
+will it snow,weather
+is it sunny,weather
+open browser,open_google
+browse internet,open_google
+go online,open_google
+internet please,open_google
+what day of the week is it,date
+which month are we in,date
+what year is it,date
+current year,date
+tell me today's day,date
+hey assistant,greeting
+yo,greeting
+sup,greeting
+what's going on,greeting
+how do you do,greeting
+nice to meet you,greeting
+what can you do,help
+list commands,help
+show commands,help
+your capabilities,help
+how do i use you,help
+voice commands,help
+open maps,open_maps
+google maps please,open_maps
+show map of london,open_maps
+directions to airport,open_maps
+map of paris,open_maps
+open google maps,open_maps
+latest news,news
+open news,news
+breaking news,news
+google news,news
+show news,news
+headline news,news
+wikipedia python,wikipedia
+search wikipedia for gravity,wikipedia
+look up on wikipedia photosynthesis,wikipedia
+wiki machine learning,wikipedia
