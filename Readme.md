@@ -60,7 +60,7 @@ The project integrates:
 - Built with `CustomTkinter`
 - Animated orb visualizer
 - Audio wave animations
-- Chat-style interface
+- Chat-style interface desktop based GUI
 
 ## 🌐 Smart Functionalities
 - Live weather updates
