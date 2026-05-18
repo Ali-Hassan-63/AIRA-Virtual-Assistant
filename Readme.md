@@ -43,7 +43,7 @@ The project integrates:
 
 ## 🎙 Voice Recognition
 - Real-time microphone input
-- Continuous listening mode
+- Continuous listening mode with pause/resume
 - Google Speech Recognition API integration
 
 ## 🧠 Machine Learning Intent Detection
